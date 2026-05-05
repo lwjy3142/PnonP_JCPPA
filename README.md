@@ -6,4 +6,4 @@ This is the script used for the paper title: Isolating transdiagnostic effects r
 
 It contains two parts:
 
-The main folder contained all scripts used in the analysis except for the LDSC analysis with external traits, which is stored in the ldsc_nonp_externaltrait folder. The LDSC with external trait analysis is with jackknife correction which kindly provided by Dr Jonathan Coleman PhD from King's College London. How to use this pipeline is included in the main script Part5_LDSC_with_external_trait. 
+The main folder contained all scripts used in the analysis except for gene/gene-set enrichment analysis, which was analysed using FUMA (https://fuma.ctglab.nl/), and the LDSC analysis with external traits, which is stored in the ldsc_nonp_externaltrait folder. The LDSC with external trait is using jackknife correction, using scripts that were kindly provided by Dr Jonathan Coleman PhD, from King's College London. How to use this pipeline is included in the main script Part5_LDSC_with_external_trait. 
