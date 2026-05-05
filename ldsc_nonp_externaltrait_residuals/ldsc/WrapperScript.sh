@@ -3,10 +3,10 @@
 # bash ./compare2GeneticCorrelations.sh OutputAC.log OutputBC.log MungedFileForC.sumstats.gz MungedFileForA.sumstats.gz MungedFileForC.sumstats.gz MungedFileForB.sumstats.gz Output
 
 
-p_sumstats_path="/mnt/d/PhD Queen Mary/PhD Project 1 - p_non-p/Analysis Pipeline/5 - LDSC/p_sumstats"
-nonp_sumstats_path="/mnt/d/PhD Queen Mary/PhD Project 1 - p_non-p/Analysis Pipeline/5 - LDSC/non-p_sumstats"
-external_sumstats_path="/mnt/d/PhD Queen Mary/PhD Project 1 - p_non-p/Analysis Pipeline/5 - LDSC/munged_external_cont"
-outpath="/mnt/d/PhD Queen Mary/PhD Project 1 - p_non-p/Analysis Pipeline/5 - LDSC/ldsc"
+p_sumstats_path="/p_sumstats"
+nonp_sumstats_path="/non-p_sumstats"
+external_sumstats_path="/munged_external_cont"
+outpath="/ldsc"
 
 ##generate delete values
 
